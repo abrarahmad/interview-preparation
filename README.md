@@ -7,23 +7,29 @@ This repository contains a comprehensive collection of interview questions and a
 
 The full interview guide is available in the GitHub Wiki:
 
-➡️ **[Angular Interview Questions and Answers](../../wiki/Angular-Interview-Questions-and-Answers)**
+➡️ **[Angular](../../wiki/Angular)**
 
-➡️ **[Angular Common Interview Problems and Solutions](../../wiki/Angular-Common-Interview-Problems-and-Solutions)**
+➡️ **[Angular Common Problems and Solutions](../../wiki/Angular-Common-Problems-and-Solutions)**
 
-➡️ **[C# Interview Questions & Answers](../../wiki/C%23-Interview-Questions-&-Answers)**
+➡️ **[C‐Sharp-(C#)](../../wiki/C‐Sharp-(C%23))**
 
-➡️ **[.NET & Azure Senior Developer Interview Guide](../../wiki/.NET-&-Azure-Senior-Developer-Interview-Guide)**
+➡️ **[.NET](../../wiki/.NET)**
 
-➡️ **[Azure-Questions,-Answers-&-Problem-Solutions](../../wiki/Azure-Questions,-Answers-&-Problem-Solutions)**
+➡️ **[Linq](../../wiki/Linq)**
 
-➡️ **[Azure Functions ‐ Interview Problems & Solutions](../../wiki/Azure-Functions-‐-Interview-Problems-&-Solutions)**
+➡️ **[Entity Framework Core](../../wiki/Entity-Framework-Core)**
 
-➡️ **[CI/CD Interview Questions and Answers](../../wiki/CI-CD-Interview-Questions-and-Answers)**
+➡️ **[.NET & Azure](../../wiki/.NET-&-Azure)**
 
-➡️ **[CI/CD-Interview-Problems-and-Solutions](../../wiki/CI-CD-Interview-Problems-and-Solutions)**
+➡️ **[Azure Problem-Solutions](../../wiki/Azure-Problem-Solutions)**
 
-➡️ **[System Design Interview Problems & Solutions](../../wiki/System-Design-Interview-Problems-&-Solutions)**
+➡️ **[Azure Functions](../../wiki/Azure-Functions)**
+
+➡️ **[CI/CD](../../wiki/CI-CD)**
+
+➡️ **[CI/CD Problems and Solutions](../../wiki/CI-CD-Problems-and-Solutions)**
+
+➡️ **[System Design Problems & Solutions](../../wiki/System-Design-Problems-&-Solutions)**
 
 ➡️ **[System Design ‐ Complete Learning Roadmap](../../wiki/System-Design-‐-Complete-Learning-Roadmap)**
 
