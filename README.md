@@ -9,7 +9,23 @@ The full interview guide is available in the GitHub Wiki:
 
 ➡️ **[Angular Interview Questions and Answers](../../wiki/Angular-Interview-Questions-and-Answers)**
 
+➡️ **[Angular Common Interview Problems and Solutions](../../wiki/Angular-Common-Interview-Problems-and-Solutions)**
+
 ➡️ **[C# Interview Questions & Answers](../../wiki/C%23-Interview-Questions-&-Answers)**
+
+➡️ **[.NET & Azure Senior Developer Interview Guide](../../wiki/.NET-&-Azure-Senior-Developer-Interview-Guide)**
+
+➡️ **[Azure-Questions,-Answers-&-Problem-Solutions](../../wiki/Azure-Questions,-Answers-&-Problem-Solutions)**
+
+➡️ **[Azure Functions ‐ Interview Problems & Solutions](../../wiki/Azure-Functions-‐-Interview-Problems-&-Solutions)**
+
+➡️ **[CI/CD Interview Questions and Answers](../../wiki/CI-CD-Interview-Questions-and-Answers)**
+
+➡️ **[CI/CD-Interview-Problems-and-Solutions](../../wiki/CI-CD-Interview-Problems-and-Solutions)**
+
+➡️ **[System Design Interview Problems & Solutions](../../wiki/System-Design-Interview-Problems-&-Solutions)**
+
+➡️ **[System Design ‐ Complete Learning Roadmap](../../wiki/System-Design-‐-Complete-Learning-Roadmap)**
 
 
 ## ⭐ Contributing
