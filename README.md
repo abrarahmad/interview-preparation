@@ -15,11 +15,11 @@ The full interview guide is available in the GitHub Wiki:
 
 ➡️ **[.NET](../../wiki/.NET)**
 
+➡️ **[.NET-II](../../wiki/.NET-II)**
+
 ➡️ **[Linq](../../wiki/Linq)**
 
 ➡️ **[Entity Framework Core](../../wiki/Entity-Framework-Core)**
-
-➡️ **[.NET & Azure](../../wiki/.NET-&-Azure)**
 
 ➡️ **[Azure Problem-Solutions](../../wiki/Azure-Problem-Solutions)**
 
